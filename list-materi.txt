@@ -29,3 +29,8 @@ Gather Router Info Using NAPALM
 Export Info From NAPALM to Excel
 Configure IP Address Automatically Using Ansible
 Configure OSPF Automatically Using Ansible
+
+
+==================================================================
+Python Fundamental course 
+==================================================================
